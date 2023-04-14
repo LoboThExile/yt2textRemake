@@ -1,0 +1,28 @@
+
+{
+  "server": {
+    "port": 8099
+  },
+  "outputs":[
+    {
+      "outputPath":  "./video_title.txt", 
+      "format": "${video_title}"
+    },
+    {
+      "outputPath":  "./video_creator.txt",
+      "format": "By ${video_creator}"
+    },
+    {
+      "outputPath":  "./video_all.txt",
+      "format": "What's playing: ${video_title}\n"
+    },
+    {
+      "outputPath":  "./time_current.txt",
+      "format": "${time_current} /\n"
+    },
+    {
+      "outputPath":  "./time_duration.txt",
+      "format": "${time_duration} \n"
+    }
+  ]
+}
