@@ -19,11 +19,12 @@
  
  now you have to put the extension into your broswer ( you can watch the video )
  
-now open command prompt and go to the folder
+ now open command prompt/powershell in  the folder
+![0723(1)](https://github.com/LoboThExile/yt2textRemake/assets/66862740/3921382c-8407-4359-a857-a038cbb238ee)
 
-now type in node yt.js
+ now type in node yt.js
 
-open youtube and pick a video and your done!
+ open youtube and pick a video and your done!
 
-it will give the time stamps and updates it after a few seconds!
+ it will give the time stamps and updates it after a few seconds!
 
